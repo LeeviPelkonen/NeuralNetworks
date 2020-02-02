@@ -9,7 +9,7 @@ Leevi Pelkonen
 Visa Soininen  
 Awet Ghebreslassie 
 
-## [Case 1]()
+## [Case 1](https://github.com/LeeviPelkonen/NeuralNetworks/tree/master/Case1)
 Heart disease prediction
 
 

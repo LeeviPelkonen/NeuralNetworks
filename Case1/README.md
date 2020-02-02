@@ -6,8 +6,8 @@ The aim of this case is to predict the probability of heart disease occurrence u
 
 ### Notebooks
 You can see the notebooks on nbViewer using below links.
-* [case_1]()
-* [Imputing missing values with NeuralNetwork]()
+* [case_1](https://nbviewer.jupyter.org/github/LeeviPelkonen/NeuralNetworks/blob/master/Case1/Case_1.ipynb)
+* [Imputing missing values with NeuralNetwork](https://nbviewer.jupyter.org/github/LeeviPelkonen/NeuralNetworks/blob/master/Case1/ImputingMissingValuesWithNeuralNetwork.ipynb)
 
 ## Dataset Information
 The data is from UCI and can be found here link. The database contains 303 instances and 76 attributes, but in this case study only 14 attributes are used.
