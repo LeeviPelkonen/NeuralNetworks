@@ -32,6 +32,9 @@ Attribute Information:
 
 
 ## Methodology
+We have used Random Forest Classifier, KNeighborsClassifier, DecisionTreeClassifier, LinearRegression, LogisticRegression and Keras Sequential model to predict the occurance of heart disease on a person using the given dataset.
+
 
 
 ## Results
+We have achieved our goal in creating models that can predict heart disease occurance with highest possible accuracy.
