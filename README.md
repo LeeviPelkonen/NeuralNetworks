@@ -9,9 +9,13 @@ Leevi Pelkonen
 Visa Soininen  
 Awet Ghebreslassie 
 
-## [Case 1](https://github.com/LeeviPelkonen/NeuralNetworks/tree/master/Case1)
+## Case studies
+
+* [Case 1](https://github.com/LeeviPelkonen/NeuralNetworks/tree/master/Case1)
 Heart disease prediction
 
+* [Case 3](https://github.com/LeeviPelkonen/NeuralNetworks/tree/master/Case3)
+Patient Drug Review
 
 ## Contributors
 ### Github users
