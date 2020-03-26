@@ -14,6 +14,9 @@ Awet Ghebreslassie
 * [Case 1](https://github.com/LeeviPelkonen/NeuralNetworks/tree/master/Case1)
 Heart disease prediction
 
+* [Case 2](https://github.com/LeeviPelkonen/NeuralNetworks/tree/master/Case2)
+Pneumonia X-ray image analysis
+
 * [Case 3](https://github.com/LeeviPelkonen/NeuralNetworks/tree/master/Case3)
 Patient Drug Review
 
